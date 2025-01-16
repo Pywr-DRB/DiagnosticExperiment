@@ -1,0 +1,4 @@
+./figs/*
+./model_data/*
+./output_data/*
+.venv
