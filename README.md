@@ -36,9 +36,3 @@ pip install -r requirements.txt
 # run workflow
 sbatch pywrdrb_run_diagnostics_experiment.sh
 ```
-
-
-On Mac (untested):
-```
-
-```
