@@ -4,8 +4,9 @@ Runs the experiments from Hamilton et al. (2024)
 **NOTE:**
 This repository uses the latest stable version of the `pywrdrb` package to run the experiment from Hamilton et al. (2024). Consequently, the results generated using this repository will be slightly different from the exact results in the published paper.  The `pywrdrb` package is under continued development, and thus these results should continue to reflect the evolving quality of the `pywrdrb` functionality. 
 
-You can access the exact code and data used to produce results in Hamilton et al. (2024) through the Zenodo repository:
-Andrew Hamilton, Trevor Amestoy, & Marilyn Smith. (2024). Pywr-DRB/Pywr-DRB: Code and Data for Pywr-DRB paper (Hamilton et al, 2024, EMS) (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.13214630 
+You can access the exact code and data used to produce results in Hamilton et al. (2024) using either:
+1. Andrew Hamilton, Trevor Amestoy, & Marilyn Smith. (2024). Pywr-DRB/Pywr-DRB: Code and Data for Pywr-DRB paper (Hamilton et al, 2024, EMS) (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.13214630 
+2. The `diagnostic_paper` branch of the Pywr-DRB repository here: https://github.com/Pywr-DRB/Pywr-DRB/tree/diagnostic_paper
 
 
 ## Workflow
